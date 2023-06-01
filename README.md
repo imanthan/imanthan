@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @imanthan
-- 👀 I’m interested in Copmuters
-- 🌱 I’m currently learning Engineering 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m imanthan
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning Computer Engineering 
 - 📫 How to reach me @i.manthansarage@gmail.com 
 
 <!---
